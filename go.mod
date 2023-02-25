@@ -20,7 +20,7 @@ require (
 	github.com/onsi/gomega v0.0.0-20170829124025-dcabb60a477c
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e // indirect
+	golang.org/x/net v0.7.0 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/gengo v0.0.0-20210813121822-485abfe95c7c
 	k8s.io/klog/v2 v2.2.0
